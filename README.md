@@ -80,9 +80,8 @@ The Power BI dashboard has 5 pages:
 | **Cancellation** | Cancellation reasons split by customer and by driver |
 | **Ratings** | Average driver and customer ratings per vehicle type |
 
-📁 Dashboard file: [`pbi_ola_pro.pbix`](./pbi_ola_pro.pbix)
-🖼️ Dashboard screenshots: see `/screenshots` or `Ola_Dashboard_Raw_Screenshots.pptx`
-📽️ Full project presentation: `Ola_Ride_Bookings_Analysis.pptx`
+🖼️ Dashboard screenshots: [`Ola_Dashboard_Raw_Screenshots.pptx`](./Ola_Dashboard_Raw_Screenshots.pptx)
+📽️ Full project presentation (problem, approach, dashboard, findings): [`Ola_Ride_Bookings_Analysis.pptx`](./Ola_Ride_Bookings_Analysis.pptx)
 
 ---
 
@@ -110,8 +109,8 @@ The Power BI dashboard has 5 pages:
 3. **Explore the SQL views**
    Each view in the script answers a specific business question — run them individually to inspect results.
 
-4. **Open the dashboard**
-   Open [`pbi_ola_pro.pbix`](./pbi_ola_pro.pbix) in Power BI Desktop to explore the full interactive report.
+4. **View the dashboard**
+   Open [`Ola_Ride_Bookings_Analysis.pptx`](./Ola_Ride_Bookings_Analysis.pptx) for the full walkthrough (problem, approach, dashboard pages, findings), or [`Ola_Dashboard_Raw_Screenshots.pptx`](./Ola_Dashboard_Raw_Screenshots.pptx) for the raw dashboard pages only.
 
 ---
 
