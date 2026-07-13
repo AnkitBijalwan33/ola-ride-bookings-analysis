@@ -70,6 +70,14 @@ The project covers the full analyst workflow — structuring raw data, writing S
 
 ## 📊 Dashboard
 
+**Preview:**
+
+![Ola Dashboard – Overall Performance](./dashboard-preview.png)
+
+*Overall Performance page — 103K bookings, ₹3.5 Cr total value, 62% success rate.*
+
+> **Note:** GitHub can't preview `.pptx` files directly in the browser — click **Download** on the file to view it in PowerPoint or LibreOffice. The image above gives a quick preview without needing to download anything.
+
 The Power BI dashboard has 5 pages:
 
 | Page | What it shows |
